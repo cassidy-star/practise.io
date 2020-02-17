@@ -1,0 +1,87 @@
+body
+{
+  background-color:white;
+ 
+}
+nav
+{
+   font-family: 'Playfair Display', serif;
+   font-size:22px;
+  position: fixed;
+  text-align: center;
+  float: right;
+}
+nav ul li
+{
+  color:red;
+  padding: 15px;
+  float: right;
+
+}
+.logo
+{
+  text-align: center;
+}
+h2
+{
+  color:red;
+  font-family: 'Playfair Display', serif;
+}
+
+.row
+{ justify-content: center;
+  margin: 5%;
+}
+.btn 
+{
+  position: relative;
+  background: transparent;
+  border:2px  red solid;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  margin-left: 25%;
+  padding:8px;
+  top: 5%;
+  width: 50%;
+}
+h3
+{
+  color:red;
+  font-family: 'Playfair Display', serif;
+}
+p
+{
+  font-family: 'Montserrat', sans-serif;}
+.list-group{
+  width: 50%;
+  text-align: center;
+  float: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.we-do
+{
+  margin-left: 11%;
+}
+h4{
+    color:red;
+  font-family: 'Playfair Display', serif;
+}
+
+.projects{
+  text-align: center;
+
+  }
+
+  .find{
+  text-align: center;
+
+}
+
+.map{
+  text-align: center;
+ 
+}
+
+footer{
+  text-align: center;
+}
